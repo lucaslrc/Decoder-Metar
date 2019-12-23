@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Decoder
+namespace decoder
 {
     class Program
     {
